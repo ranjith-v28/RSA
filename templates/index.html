@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyber Sentinel - Secure Message Encryption</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Fira+Code&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>🔐 Cyber Sentinel</h1>
+            <p>Secure your messages with RSA encryption and emoji encoding</p>
+        </header>
+
+        <nav class="nav">
+            <a href="/" class="nav-link active">Home</a>
+            <a href="/encrypt" class="nav-link">Encrypt</a>
+            <a href="/decrypt" class="nav-link">Decrypt</a>
+        </nav>
+
+        <div class="card">
+            <h2><i class="bi bi-shield-lock"></i> Welcome to Cyber Sentinel</h2>
+            <p>Cyber Sentinel provides a secure way to encrypt and decrypt messages using RSA encryption and emoji encoding. This ensures your messages are protected and can be safely shared.</p>
+            
+            <div class="btn-group">
+                <a href="/encrypt" class="btn btn-primary">
+                    <i class="bi bi-lock-fill"></i> Encrypt Message
+                </a>
+                <a href="/decrypt" class="btn btn-secondary">
+                    <i class="bi bi-unlock-fill"></i> Decrypt Message
+                </a>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2><i class="bi bi-info-circle"></i> How It Works</h2>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
+                <div>
+                    <h3><i class="bi bi-1-circle"></i> Generate Keys</h3>
+                    <p>First, generate a pair of RSA keys - one public and one private. Keep your private key secure and share your public key with others.</p>
+                </div>
+                <div>
+                    <h3><i class="bi bi-2-circle"></i> Encrypt</h3>
+                    <p>Use the public key to encrypt your message. The encrypted message will be converted to emojis for easy sharing.</p>
+                </div>
+                <div>
+                    <h3><i class="bi bi-3-circle"></i> Decrypt</h3>
+                    <p>Use your private key to decrypt the emoji message back into its original form.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2><i class="bi bi-shield-check"></i> Security Features</h2>
+            <ul style="list-style: none; padding: 0;">
+                <li style="margin-bottom: 1rem; display: flex; align-items: start; gap: 0.5rem;">
+                    <i class="bi bi-check-circle-fill" style="color: var(--success-color);"></i>
+                    <span>RSA encryption for strong message security</span>
+                </li>
+                <li style="margin-bottom: 1rem; display: flex; align-items: start; gap: 0.5rem;">
+                    <i class="bi bi-check-circle-fill" style="color: var(--success-color);"></i>
+                    <span>Emoji encoding for easy message sharing</span>
+                </li>
+                <li style="margin-bottom: 1rem; display: flex; align-items: start; gap: 0.5rem;">
+                    <i class="bi bi-check-circle-fill" style="color: var(--success-color);"></i>
+                    <span>Client-side key generation for maximum privacy</span>
+                </li>
+                <li style="display: flex; align-items: start; gap: 0.5rem;">
+                    <i class="bi bi-check-circle-fill" style="color: var(--success-color);"></i>
+                    <span>No message storage - everything is processed in real-time</span>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encrypt Message - Cyber Sentinel</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Fira+Code&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>🔐 Cyber Sentinel</h1>
+            <p>Secure your messages with RSA encryption and emoji encoding</p>
+        </header>
+
+        <nav class="nav">
+            <a href="/" class="nav-link">Home</a>
+            <a href="/encrypt" class="nav-link active">Encrypt</a>
+            <a href="/decrypt" class="nav-link">Decrypt</a>
+        </nav>
+
+        <div class="card">
+            <h2><i class="bi bi-lock-fill"></i> Encrypt Message</h2>
+            <form id="encryptForm">
+                <div class="form-group">
+                    <label for="message">Message to Encrypt</label>
+                    <textarea class="form-control" id="message" name="message" rows="4" required 
+                              placeholder="Enter your message here..."></textarea>
+                </div>
+                
+                <div class="form-group">
+                    <label for="public_key">Public Key</label>
+                    <textarea class="form-control" id="public_key" name="public_key" rows="6" required 
+                              placeholder="Paste your public key here..."></textarea>
+                </div>
+
+                <div class="btn-group">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="bi bi-lock-fill"></i> Encrypt Message
+                    </button>
+                    <button type="button" class="btn btn-secondary" onclick="clearForm()">
+                        <i class="bi bi-x-circle"></i> Clear Form
+                    </button>
+                </div>
+            </form>
+
+            <div id="result" class="result" style="display: none;">
+                <h3>Encrypted Message</h3>
+                <div style="position: relative;">
+                    <pre id="encrypted_text"></pre>
+                    <button class="copy-btn" onclick="copyToClipboard('encrypted_text')">
+                        <i class="bi bi-clipboard"></i> Copy
+                    </button>
+                </div>
+            </div>
+
+            <div id="error" class="alert alert-danger" style="display: none;"></div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('encryptForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const form = e.target;
+            const resultDiv = document.getElementById('result');
+            const errorDiv = document.getElementById('error');
+            
+            try {
+                const formData = new FormData(form);
+                const response = await fetch('/encrypt', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    document.getElementById('encrypted_text').textContent = data.encrypted_text;
+                    resultDiv.style.display = 'block';
+                    errorDiv.style.display = 'none';
+                } else {
+                    errorDiv.textContent = data.error || 'An error occurred during encryption';
+                    errorDiv.style.display = 'block';
+                    resultDiv.style.display = 'none';
+                }
+            } catch (error) {
+                errorDiv.textContent = 'An error occurred while processing your request';
+                errorDiv.style.display = 'block';
+                resultDiv.style.display = 'none';
+            }
+        });
+
+        function clearForm() {
+            document.getElementById('encryptForm').reset();
+            document.getElementById('result').style.display = 'none';
+            document.getElementById('error').style.display = 'none';
+        }
+
+        async function copyToClipboard(elementId) {
+            const text = document.getElementById(elementId).textContent;
+            try {
+                await navigator.clipboard.writeText(text);
+                const btn = document.querySelector('.copy-btn');
+                const originalText = btn.innerHTML;
+                btn.innerHTML = '<i class="bi bi-check"></i> Copied!';
+                setTimeout(() => {
+                    btn.innerHTML = originalText;
+                }, 2000);
+            } catch (err) {
+                console.error('Failed to copy text: ', err);
+            }
+        }
+    </script>
+</body>
+</html> 

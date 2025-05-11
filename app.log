@@ -1,0 +1,642 @@
+2025-05-09 20:14:15,325 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.173:5000
+2025-05-09 20:14:15,326 INFO: [33mPress CTRL+C to quit[0m
+2025-05-09 20:15:00,150 INFO: 127.0.0.1 - - [09/May/2025 20:15:00] "GET / HTTP/1.1" 200 -
+2025-05-09 20:15:00,441 INFO: 127.0.0.1 - - [09/May/2025 20:15:00] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-09 20:15:00,545 INFO: 127.0.0.1 - - [09/May/2025 20:15:00] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-09 20:15:01,125 INFO: 127.0.0.1 - - [09/May/2025 20:15:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-09 20:19:32,177 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.173:5000
+2025-05-09 20:19:32,177 INFO: [33mPress CTRL+C to quit[0m
+2025-05-09 20:20:33,783 INFO: 127.0.0.1 - - [09/May/2025 20:20:33] "POST /encrypt HTTP/1.1" 200 -
+2025-05-09 20:20:50,784 INFO: 127.0.0.1 - - [09/May/2025 20:20:50] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-09 20:20:52,898 INFO: 127.0.0.1 - - [09/May/2025 20:20:52] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-09 20:25:48,202 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.173:5000
+2025-05-09 20:25:48,203 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 20:25:48,208 - INFO -  * Restarting with stat
+2025-05-09 20:25:48,441 - WARNING -  * Debugger is active!
+2025-05-09 20:25:48,444 - INFO -  * Debugger PIN: 505-247-244
+2025-05-09 20:25:54,367 - INFO - 127.0.0.1 - - [09/May/2025 20:25:54] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-09 20:25:56,705 - INFO - 127.0.0.1 - - [09/May/2025 20:25:56] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-09 20:42:48,028 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.173:5000
+2025-05-09 20:42:48,028 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 20:42:48,032 - INFO -  * Restarting with stat
+2025-05-09 20:42:48,270 - WARNING -  * Debugger is active!
+2025-05-09 20:42:48,275 - INFO -  * Debugger PIN: 505-247-244
+2025-05-09 20:42:53,955 - INFO - 127.0.0.1 - - [09/May/2025 20:42:53] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-09 20:44:59,642 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.173:5000
+2025-05-09 20:44:59,643 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 20:44:59,646 - INFO -  * Restarting with stat
+2025-05-09 20:44:59,887 - WARNING -  * Debugger is active!
+2025-05-09 20:44:59,891 - INFO -  * Debugger PIN: 505-247-244
+2025-05-09 20:45:09,344 - INFO - 127.0.0.1 - - [09/May/2025 20:45:09] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-09 20:46:35,287 - INFO - 127.0.0.1 - - [09/May/2025 20:46:35] "POST /encrypt HTTP/1.1" 200 -
+2025-05-09 20:46:49,314 - INFO - 127.0.0.1 - - [09/May/2025 20:46:49] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-09 20:50:10,989 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.173:5000
+2025-05-09 20:50:10,990 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 20:50:10,993 - INFO -  * Restarting with stat
+2025-05-09 20:50:11,224 - WARNING -  * Debugger is active!
+2025-05-09 20:50:11,227 - INFO -  * Debugger PIN: 505-247-244
+2025-05-09 20:51:58,992 - INFO - 127.0.0.1 - - [09/May/2025 20:51:58] "GET / HTTP/1.1" 200 -
+2025-05-09 20:51:59,048 - INFO - 127.0.0.1 - - [09/May/2025 20:51:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-09 20:51:59,252 - INFO - 127.0.0.1 - - [09/May/2025 20:51:59] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-05-10 08:27:32,245 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.173:5000
+2025-05-10 08:27:32,247 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 08:27:32,256 - INFO -  * Restarting with stat
+2025-05-10 08:27:32,876 - WARNING -  * Debugger is active!
+2025-05-10 08:27:32,889 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 08:27:58,404 - INFO - 127.0.0.1 - - [10/May/2025 08:27:58] "GET / HTTP/1.1" 200 -
+2025-05-10 08:27:58,782 - INFO - 127.0.0.1 - - [10/May/2025 08:27:58] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-10 08:27:58,868 - INFO - 127.0.0.1 - - [10/May/2025 08:27:58] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-10 08:27:59,785 - INFO - 127.0.0.1 - - [10/May/2025 08:27:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-10 08:29:34,071 - INFO - 127.0.0.1 - - [10/May/2025 08:29:34] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 08:33:25,530 - INFO - 127.0.0.1 - - [10/May/2025 08:33:25] "GET / HTTP/1.1" 200 -
+2025-05-10 08:33:25,577 - INFO - 127.0.0.1 - - [10/May/2025 08:33:25] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-10 08:33:25,774 - INFO - 127.0.0.1 - - [10/May/2025 08:33:25] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-10 08:34:09,531 - INFO - 127.0.0.1 - - [10/May/2025 08:34:09] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 08:34:17,539 - INFO - 127.0.0.1 - - [10/May/2025 08:34:17] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 08:34:46,325 - INFO - 127.0.0.1 - - [10/May/2025 08:34:46] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 08:34:53,153 - INFO - 127.0.0.1 - - [10/May/2025 08:34:53] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 08:35:15,460 - INFO - 127.0.0.1 - - [10/May/2025 08:35:15] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 08:39:27,005 - INFO - 127.0.0.1 - - [10/May/2025 08:39:27] "GET / HTTP/1.1" 200 -
+2025-05-10 08:39:27,053 - INFO - 127.0.0.1 - - [10/May/2025 08:39:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-10 08:39:27,268 - INFO - 127.0.0.1 - - [10/May/2025 08:39:27] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-10 08:51:59,400 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\generate_keys.py', reloading
+2025-05-10 08:51:59,490 - INFO -  * Restarting with stat
+2025-05-10 08:52:00,051 - WARNING -  * Debugger is active!
+2025-05-10 08:52:00,061 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 08:53:26,617 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\generate_keys.py', reloading
+2025-05-10 08:53:26,682 - INFO -  * Restarting with stat
+2025-05-10 08:53:27,238 - WARNING -  * Debugger is active!
+2025-05-10 08:53:27,248 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 08:53:52,419 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\generate_keys.py', reloading
+2025-05-10 08:53:52,497 - INFO -  * Restarting with stat
+2025-05-10 08:53:53,037 - WARNING -  * Debugger is active!
+2025-05-10 08:53:53,045 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 08:58:05,370 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 08:58:05,456 - INFO -  * Restarting with stat
+2025-05-10 08:58:06,038 - WARNING -  * Debugger is active!
+2025-05-10 08:58:06,048 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 09:02:09,228 - INFO - 127.0.0.1 - - [10/May/2025 09:02:09] "GET / HTTP/1.1" 200 -
+2025-05-10 09:02:09,351 - INFO - 127.0.0.1 - - [10/May/2025 09:02:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-10 09:02:09,468 - INFO - 127.0.0.1 - - [10/May/2025 09:02:09] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-05-10 09:03:40,291 - INFO - 127.0.0.1 - - [10/May/2025 09:03:40] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 09:04:25,315 - INFO - 127.0.0.1 - - [10/May/2025 09:04:25] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 09:08:22,357 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\decrypt_data.py', reloading
+2025-05-10 09:08:22,444 - INFO -  * Restarting with stat
+2025-05-10 09:08:23,038 - WARNING -  * Debugger is active!
+2025-05-10 09:08:23,048 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 09:08:49,412 - INFO - 127.0.0.1 - - [10/May/2025 09:08:49] "GET / HTTP/1.1" 200 -
+2025-05-10 09:08:49,544 - INFO - 127.0.0.1 - - [10/May/2025 09:08:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-10 09:08:49,673 - INFO - 127.0.0.1 - - [10/May/2025 09:08:49] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-05-10 11:56:36,211 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.173:5000
+2025-05-10 11:56:36,211 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 11:56:36,217 - INFO -  * Restarting with stat
+2025-05-10 11:56:36,453 - WARNING -  * Debugger is active!
+2025-05-10 11:56:36,457 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 11:56:44,410 - INFO - 127.0.0.1 - - [10/May/2025 11:56:44] "GET / HTTP/1.1" 200 -
+2025-05-10 11:56:44,524 - INFO - 127.0.0.1 - - [10/May/2025 11:56:44] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-10 11:56:44,658 - INFO - 127.0.0.1 - - [10/May/2025 11:56:44] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-10 11:56:45,245 - INFO - 127.0.0.1 - - [10/May/2025 11:56:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-10 11:57:28,247 - INFO - 127.0.0.1 - - [10/May/2025 11:57:28] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 11:57:51,968 - INFO - 127.0.0.1 - - [10/May/2025 11:57:51] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 11:57:59,223 - INFO - 127.0.0.1 - - [10/May/2025 11:57:59] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:01:55,053 - INFO - 127.0.0.1 - - [10/May/2025 12:01:55] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 12:02:41,072 - INFO - 127.0.0.1 - - [10/May/2025 12:02:41] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:02:44,778 - INFO - 127.0.0.1 - - [10/May/2025 12:02:44] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:02:45,289 - INFO - 127.0.0.1 - - [10/May/2025 12:02:45] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:07:42,224 - INFO - 127.0.0.1 - - [10/May/2025 12:07:42] "GET / HTTP/1.1" 200 -
+2025-05-10 12:07:42,243 - INFO - 127.0.0.1 - - [10/May/2025 12:07:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-10 12:07:42,490 - INFO - 127.0.0.1 - - [10/May/2025 12:07:42] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-05-10 12:07:58,249 - INFO - 127.0.0.1 - - [10/May/2025 12:07:58] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 12:09:14,167 - INFO - 127.0.0.1 - - [10/May/2025 12:09:14] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:10:11,822 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_keys.py', reloading
+2025-05-10 12:10:11,853 - INFO -  * Restarting with stat
+2025-05-10 12:10:12,094 - WARNING -  * Debugger is active!
+2025-05-10 12:10:12,098 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 12:10:16,121 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_keys.py', reloading
+2025-05-10 12:10:16,148 - INFO -  * Restarting with stat
+2025-05-10 12:10:16,380 - WARNING -  * Debugger is active!
+2025-05-10 12:10:16,384 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 12:10:34,450 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_keys.py', reloading
+2025-05-10 12:10:34,479 - INFO -  * Restarting with stat
+2025-05-10 12:10:34,721 - WARNING -  * Debugger is active!
+2025-05-10 12:10:34,724 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 12:34:29,625 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.173:5000
+2025-05-10 12:34:29,626 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 12:34:29,629 - INFO -  * Restarting with stat
+2025-05-10 12:34:29,864 - WARNING -  * Debugger is active!
+2025-05-10 12:34:29,868 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 12:34:47,929 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 12:34:47,958 - INFO -  * Restarting with stat
+2025-05-10 12:34:48,201 - WARNING -  * Debugger is active!
+2025-05-10 12:34:48,205 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 12:34:53,703 - INFO - 127.0.0.1 - - [10/May/2025 12:34:53] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 12:35:24,026 - INFO - 127.0.0.1 - - [10/May/2025 12:35:24] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:35:32,295 - INFO - 127.0.0.1 - - [10/May/2025 12:35:32] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:35:39,379 - INFO - 127.0.0.1 - - [10/May/2025 12:35:39] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:35:46,712 - INFO - 127.0.0.1 - - [10/May/2025 12:35:46] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:38:27,787 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.173:5000
+2025-05-10 12:38:27,787 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 12:38:27,790 - INFO -  * Restarting with stat
+2025-05-10 12:38:28,026 - WARNING -  * Debugger is active!
+2025-05-10 12:38:28,030 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 12:38:36,955 - INFO - 127.0.0.1 - - [10/May/2025 12:38:36] "GET / HTTP/1.1" 200 -
+2025-05-10 12:38:37,103 - INFO - 127.0.0.1 - - [10/May/2025 12:38:37] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-10 12:38:37,124 - INFO - 127.0.0.1 - - [10/May/2025 12:38:37] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-10 12:38:38,059 - INFO - 127.0.0.1 - - [10/May/2025 12:38:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-10 12:42:20,717 - INFO - 127.0.0.1 - - [10/May/2025 12:42:20] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:42:32,154 - INFO - 127.0.0.1 - - [10/May/2025 12:42:32] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:43:01,801 - INFO - 127.0.0.1 - - [10/May/2025 12:43:01] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:49:27,990 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 12:49:27,990 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 12:49:27,993 - INFO -  * Restarting with stat
+2025-05-10 12:49:28,235 - WARNING -  * Debugger is active!
+2025-05-10 12:49:28,239 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 12:49:35,867 - INFO - 127.0.0.1 - - [10/May/2025 12:49:35] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 12:50:07,948 - INFO - 127.0.0.1 - - [10/May/2025 12:50:07] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:50:22,295 - INFO - 127.0.0.1 - - [10/May/2025 12:50:22] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:50:49,844 - INFO - 127.0.0.1 - - [10/May/2025 12:50:49] "GET / HTTP/1.1" 200 -
+2025-05-10 12:51:16,560 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_api.py', reloading
+2025-05-10 12:51:16,588 - INFO -  * Restarting with stat
+2025-05-10 12:51:16,826 - WARNING -  * Debugger is active!
+2025-05-10 12:51:16,829 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 12:51:24,864 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_api.py', reloading
+2025-05-10 12:51:24,891 - INFO -  * Restarting with stat
+2025-05-10 12:51:25,133 - WARNING -  * Debugger is active!
+2025-05-10 12:51:25,137 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 12:51:27,889 - INFO - 127.0.0.1 - - [10/May/2025 12:51:27] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 12:51:27,937 - INFO - 127.0.0.1 - - [10/May/2025 12:51:27] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:53:24,589 - INFO - 127.0.0.1 - - [10/May/2025 12:53:24] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:53:25,784 - INFO - 127.0.0.1 - - [10/May/2025 12:53:25] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:53:26,273 - INFO - 127.0.0.1 - - [10/May/2025 12:53:26] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:53:26,502 - INFO - 127.0.0.1 - - [10/May/2025 12:53:26] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:53:26,742 - INFO - 127.0.0.1 - - [10/May/2025 12:53:26] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:53:26,964 - INFO - 127.0.0.1 - - [10/May/2025 12:53:26] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:53:27,171 - INFO - 127.0.0.1 - - [10/May/2025 12:53:27] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:53:27,361 - INFO - 127.0.0.1 - - [10/May/2025 12:53:27] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:53:27,539 - INFO - 127.0.0.1 - - [10/May/2025 12:53:27] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:53:27,717 - INFO - 127.0.0.1 - - [10/May/2025 12:53:27] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:53:27,923 - INFO - 127.0.0.1 - - [10/May/2025 12:53:27] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:54:11,121 - INFO - 127.0.0.1 - - [10/May/2025 12:54:11] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 12:54:43,764 - INFO - 127.0.0.1 - - [10/May/2025 12:54:43] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:54:45,744 - INFO - 127.0.0.1 - - [10/May/2025 12:54:45] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 12:54:58,528 - INFO - 127.0.0.1 - - [10/May/2025 12:54:58] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:55:29,899 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_api.py', reloading
+2025-05-10 12:55:29,931 - INFO -  * Restarting with stat
+2025-05-10 12:55:30,166 - WARNING -  * Debugger is active!
+2025-05-10 12:55:30,170 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 12:55:41,214 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_api.py', reloading
+2025-05-10 12:55:41,241 - INFO -  * Restarting with stat
+2025-05-10 12:55:41,488 - WARNING -  * Debugger is active!
+2025-05-10 12:55:41,492 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 12:55:44,181 - INFO - 127.0.0.1 - - [10/May/2025 12:55:44] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 12:55:44,238 - INFO - 127.0.0.1 - - [10/May/2025 12:55:44] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:55:55,546 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 12:55:55,576 - INFO -  * Restarting with stat
+2025-05-10 12:55:55,810 - WARNING -  * Debugger is active!
+2025-05-10 12:55:55,814 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 12:56:03,849 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 12:56:03,876 - INFO -  * Restarting with stat
+2025-05-10 12:56:04,113 - WARNING -  * Debugger is active!
+2025-05-10 12:56:04,116 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 12:56:14,694 - INFO - 127.0.0.1 - - [10/May/2025 12:56:14] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:56:15,846 - INFO - 127.0.0.1 - - [10/May/2025 12:56:15] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:56:16,438 - INFO - 127.0.0.1 - - [10/May/2025 12:56:16] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:56:17,014 - INFO - 127.0.0.1 - - [10/May/2025 12:56:17] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:56:17,550 - INFO - 127.0.0.1 - - [10/May/2025 12:56:17] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:56:18,133 - INFO - 127.0.0.1 - - [10/May/2025 12:56:18] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:56:31,314 - INFO - 127.0.0.1 - - [10/May/2025 12:56:31] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:56:32,709 - INFO - 127.0.0.1 - - [10/May/2025 12:56:32] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 12:56:34,182 - INFO - 127.0.0.1 - - [10/May/2025 12:56:34] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:02:54,926 - INFO - 127.0.0.1 - - [10/May/2025 13:02:54] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:03:57,644 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_keys_direct.py', reloading
+2025-05-10 13:03:57,675 - INFO -  * Restarting with stat
+2025-05-10 13:03:57,921 - WARNING -  * Debugger is active!
+2025-05-10 13:03:57,925 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:04:27,020 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:04:27,049 - INFO -  * Restarting with stat
+2025-05-10 13:04:27,289 - WARNING -  * Debugger is active!
+2025-05-10 13:04:27,293 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:04:45,356 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:04:45,381 - INFO -  * Restarting with stat
+2025-05-10 13:04:45,618 - WARNING -  * Debugger is active!
+2025-05-10 13:04:45,622 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:04:52,949 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 13:04:52,949 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 13:04:52,952 - INFO -  * Restarting with stat
+2025-05-10 13:04:53,187 - WARNING -  * Debugger is active!
+2025-05-10 13:04:53,190 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:05:43,269 - INFO - 127.0.0.1 - - [10/May/2025 13:05:43] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 13:06:34,960 - INFO - 127.0.0.1 - - [10/May/2025 13:06:34] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:06:55,580 - INFO - 127.0.0.1 - - [10/May/2025 13:06:55] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:06:59,830 - INFO - 127.0.0.1 - - [10/May/2025 13:06:59] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:07:06,749 - INFO - 127.0.0.1 - - [10/May/2025 13:07:06] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:08:56,947 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:08:56,972 - INFO -  * Restarting with stat
+2025-05-10 13:08:57,210 - WARNING -  * Debugger is active!
+2025-05-10 13:08:57,213 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:08:57,409 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:08:57,438 - INFO -  * Restarting with stat
+2025-05-10 13:08:57,683 - WARNING -  * Debugger is active!
+2025-05-10 13:08:57,687 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:09:20,292 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:09:20,317 - INFO -  * Restarting with stat
+2025-05-10 13:09:20,562 - WARNING -  * Debugger is active!
+2025-05-10 13:09:20,566 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:09:20,766 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:09:20,795 - INFO -  * Restarting with stat
+2025-05-10 13:09:21,035 - WARNING -  * Debugger is active!
+2025-05-10 13:09:21,039 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:09:29,111 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 13:09:29,111 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 13:09:29,114 - INFO -  * Restarting with stat
+2025-05-10 13:09:29,366 - WARNING -  * Debugger is active!
+2025-05-10 13:09:29,370 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:09:42,493 - INFO - 127.0.0.1 - - [10/May/2025 13:09:42] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 13:10:21,342 - INFO - 127.0.0.1 - - [10/May/2025 13:10:21] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:12:39,952 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:12:39,997 - INFO -  * Restarting with stat
+2025-05-10 13:12:40,171 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:12:40,199 - INFO -  * Restarting with stat
+2025-05-10 13:12:40,242 - WARNING -  * Debugger is active!
+2025-05-10 13:12:40,246 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:12:40,436 - WARNING -  * Debugger is active!
+2025-05-10 13:12:40,440 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:12:40,662 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:12:40,689 - INFO -  * Restarting with stat
+2025-05-10 13:12:40,919 - WARNING -  * Debugger is active!
+2025-05-10 13:12:40,923 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:13:04,329 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:13:04,354 - INFO -  * Restarting with stat
+2025-05-10 13:13:04,524 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:13:04,553 - INFO -  * Restarting with stat
+2025-05-10 13:13:04,601 - WARNING -  * Debugger is active!
+2025-05-10 13:13:04,605 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:13:04,788 - WARNING -  * Debugger is active!
+2025-05-10 13:13:04,792 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:13:05,006 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:13:05,033 - INFO -  * Restarting with stat
+2025-05-10 13:13:05,271 - WARNING -  * Debugger is active!
+2025-05-10 13:13:05,275 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:13:34,710 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_keys_direct.py', reloading
+2025-05-10 13:13:34,733 - INFO -  * Restarting with stat
+2025-05-10 13:13:34,895 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_keys_direct.py', reloading
+2025-05-10 13:13:34,922 - INFO -  * Restarting with stat
+2025-05-10 13:13:34,968 - WARNING -  * Debugger is active!
+2025-05-10 13:13:34,972 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:13:35,155 - WARNING -  * Debugger is active!
+2025-05-10 13:13:35,159 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:13:35,379 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_keys_direct.py', reloading
+2025-05-10 13:13:35,407 - INFO -  * Restarting with stat
+2025-05-10 13:13:35,650 - WARNING -  * Debugger is active!
+2025-05-10 13:13:35,653 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:14:13,781 - INFO - 127.0.0.1 - - [10/May/2025 13:14:13] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 13:14:22,255 - INFO - 127.0.0.1 - - [10/May/2025 13:14:22] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:14:32,234 - INFO - 127.0.0.1 - - [10/May/2025 13:14:32] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:14:33,776 - INFO - 127.0.0.1 - - [10/May/2025 13:14:33] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:15:38,474 - INFO - 127.0.0.1 - - [10/May/2025 13:15:38] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:15:40,482 - INFO - 127.0.0.1 - - [10/May/2025 13:15:40] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:15:41,865 - INFO - 127.0.0.1 - - [10/May/2025 13:15:41] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:15:43,316 - INFO - 127.0.0.1 - - [10/May/2025 13:15:43] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:15:45,032 - INFO - 127.0.0.1 - - [10/May/2025 13:15:45] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:15:46,246 - INFO - 127.0.0.1 - - [10/May/2025 13:15:46] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:15:47,288 - INFO - 127.0.0.1 - - [10/May/2025 13:15:47] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:15:48,438 - INFO - 127.0.0.1 - - [10/May/2025 13:15:48] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:15:50,023 - INFO - 127.0.0.1 - - [10/May/2025 13:15:50] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:15:51,116 - INFO - 127.0.0.1 - - [10/May/2025 13:15:51] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:15:51,965 - INFO - 127.0.0.1 - - [10/May/2025 13:15:51] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:15:53,008 - INFO - 127.0.0.1 - - [10/May/2025 13:15:53] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:15:53,971 - INFO - 127.0.0.1 - - [10/May/2025 13:15:53] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:15:55,067 - INFO - 127.0.0.1 - - [10/May/2025 13:15:55] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:16:23,417 - INFO - 127.0.0.1 - - [10/May/2025 13:16:23] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:16:24,683 - INFO - 127.0.0.1 - - [10/May/2025 13:16:24] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:16:25,707 - INFO - 127.0.0.1 - - [10/May/2025 13:16:25] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:16:29,890 - INFO - 127.0.0.1 - - [10/May/2025 13:16:29] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:18:16,495 - INFO - 127.0.0.1 - - [10/May/2025 13:18:16] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:18:47,786 - INFO - 127.0.0.1 - - [10/May/2025 13:18:47] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 13:19:04,107 - INFO - 127.0.0.1 - - [10/May/2025 13:19:04] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 13:22:22,343 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:22:22,374 - INFO -  * Restarting with stat
+2025-05-10 13:22:22,617 - WARNING -  * Debugger is active!
+2025-05-10 13:22:22,621 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:22:22,631 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:22:22,655 - INFO -  * Restarting with stat
+2025-05-10 13:22:22,830 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:22:22,858 - INFO -  * Restarting with stat
+2025-05-10 13:22:22,904 - WARNING -  * Debugger is active!
+2025-05-10 13:22:22,908 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:22:23,102 - WARNING -  * Debugger is active!
+2025-05-10 13:22:23,105 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:22:23,924 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:22:23,950 - INFO -  * Restarting with stat
+2025-05-10 13:22:24,120 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:22:24,152 - INFO -  * Restarting with stat
+2025-05-10 13:22:24,196 - WARNING -  * Debugger is active!
+2025-05-10 13:22:24,200 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:22:24,394 - WARNING -  * Debugger is active!
+2025-05-10 13:22:24,398 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:22:24,639 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 13:22:24,665 - INFO -  * Restarting with stat
+2025-05-10 13:22:24,905 - WARNING -  * Debugger is active!
+2025-05-10 13:22:24,908 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 13:22:53,326 - INFO - 127.0.0.1 - - [10/May/2025 13:22:53] "GET / HTTP/1.1" 200 -
+2025-05-10 13:22:53,373 - INFO - 127.0.0.1 - - [10/May/2025 13:22:53] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-10 13:22:56,908 - INFO - 127.0.0.1 - - [10/May/2025 13:22:56] "GET /encrypt HTTP/1.1" 200 -
+2025-05-10 13:22:56,926 - INFO - 127.0.0.1 - - [10/May/2025 13:22:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 13:23:33,714 - INFO - 127.0.0.1 - - [10/May/2025 13:23:33] "[33mPOST /validate_keys HTTP/1.1[0m" 404 -
+2025-05-10 21:52:01,360 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 21:52:01,360 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 21:52:01,364 - INFO -  * Restarting with stat
+2025-05-10 21:52:01,593 - WARNING -  * Debugger is active!
+2025-05-10 21:52:01,598 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 21:53:24,789 - INFO - 127.0.0.1 - - [10/May/2025 21:53:24] "GET / HTTP/1.1" 200 -
+2025-05-10 21:53:24,864 - INFO - 127.0.0.1 - - [10/May/2025 21:53:24] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-10 21:53:25,147 - INFO - 127.0.0.1 - - [10/May/2025 21:53:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-10 21:53:29,055 - INFO - 127.0.0.1 - - [10/May/2025 21:53:29] "GET /encrypt HTTP/1.1" 200 -
+2025-05-10 21:53:29,075 - INFO - 127.0.0.1 - - [10/May/2025 21:53:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 21:54:36,975 - INFO - 127.0.0.1 - - [10/May/2025 21:54:36] "[33mPOST /validate_keys HTTP/1.1[0m" 404 -
+2025-05-10 21:55:18,184 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 21:55:18,221 - INFO -  * Restarting with stat
+2025-05-10 21:55:18,457 - WARNING -  * Debugger is active!
+2025-05-10 21:55:18,460 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 21:55:51,570 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 21:55:51,599 - INFO -  * Restarting with stat
+2025-05-10 21:55:51,836 - WARNING -  * Debugger is active!
+2025-05-10 21:55:51,840 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 21:55:57,290 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 21:55:57,291 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 21:55:57,293 - INFO -  * Restarting with stat
+2025-05-10 21:55:57,527 - WARNING -  * Debugger is active!
+2025-05-10 21:55:57,531 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 21:56:03,964 - INFO - 127.0.0.1 - - [10/May/2025 21:56:03] "POST /validate_keys HTTP/1.1" 200 -
+2025-05-10 21:56:04,012 - INFO - 127.0.0.1 - - [10/May/2025 21:56:04] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 21:56:18,359 - INFO - 127.0.0.1 - - [10/May/2025 21:56:18] "GET / HTTP/1.1" 200 -
+2025-05-10 21:56:18,416 - INFO - 127.0.0.1 - - [10/May/2025 21:56:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 21:56:19,588 - INFO - 127.0.0.1 - - [10/May/2025 21:56:19] "GET /decrypt HTTP/1.1" 200 -
+2025-05-10 21:56:19,604 - INFO - 127.0.0.1 - - [10/May/2025 21:56:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 21:56:45,457 - INFO - 127.0.0.1 - - [10/May/2025 21:56:45] "POST /validate_keys HTTP/1.1" 200 -
+2025-05-10 21:56:45,553 - INFO - 127.0.0.1 - - [10/May/2025 21:56:45] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 21:57:14,085 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_keys_direct.py', reloading
+2025-05-10 21:57:14,114 - INFO -  * Restarting with stat
+2025-05-10 21:57:14,336 - WARNING -  * Debugger is active!
+2025-05-10 21:57:14,340 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 21:57:38,420 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 21:57:38,451 - INFO -  * Restarting with stat
+2025-05-10 21:57:38,679 - WARNING -  * Debugger is active!
+2025-05-10 21:57:38,683 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 21:58:01,766 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 21:58:01,796 - INFO -  * Restarting with stat
+2025-05-10 21:58:02,032 - WARNING -  * Debugger is active!
+2025-05-10 21:58:02,036 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 21:58:07,008 - INFO - 127.0.0.1 - - [10/May/2025 21:58:07] "POST /validate_keys HTTP/1.1" 200 -
+2025-05-10 21:58:07,056 - INFO - Successfully loaded private key with modulus: 640961689097616977350236524103115084610418622174415570499655058534925544616667383145424688401644223425288118633251772721006539138296177358916803836436940619173769783916566184859845373712571834642698437712093323798365628854021347275896728327933454959169786901394598564788744150654482681621888870292862876691882019768621974966839384367741380058364577669938482065531862080039734657473542772564933906956737240119776540253830681581352953714872276786415140930105777009116768947929263376643106136326740719744531479172835414413764903878754154846942408337177629769132470897234864065470526527156186146279090353175285963099809367581993130402647847223991885874164995623027061461489454553307875750707707659164248177884049212657479219089489350310848880227687586093171236309671463783067408275343754062361500485057347657740871634879163581128101379043942079032808023506150755833372102172801468292729445657689519943594218104751474452706114753271321186860400826564868609068580275556116963823910724332273350965362481309681762613473464571122939340464944149329857002147937539955776053140604334469345717654588479840955668014829957483937542991996162099130356444117345151226114820457538490378957926547837528300877913129057603583990912262549572254108130087613
+2025-05-10 21:58:07,057 - INFO - Converted emojis to bytes, length: 503
+2025-05-10 21:58:07,100 - ERROR - Decryption failed - Key mismatch
+2025-05-10 21:58:07,100 - INFO - 127.0.0.1 - - [10/May/2025 21:58:07] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 21:58:09,866 - INFO - 127.0.0.1 - - [10/May/2025 21:58:09] "POST /validate_keys HTTP/1.1" 200 -
+2025-05-10 21:58:09,917 - INFO - Successfully loaded private key with modulus: 640961689097616977350236524103115084610418622174415570499655058534925544616667383145424688401644223425288118633251772721006539138296177358916803836436940619173769783916566184859845373712571834642698437712093323798365628854021347275896728327933454959169786901394598564788744150654482681621888870292862876691882019768621974966839384367741380058364577669938482065531862080039734657473542772564933906956737240119776540253830681581352953714872276786415140930105777009116768947929263376643106136326740719744531479172835414413764903878754154846942408337177629769132470897234864065470526527156186146279090353175285963099809367581993130402647847223991885874164995623027061461489454553307875750707707659164248177884049212657479219089489350310848880227687586093171236309671463783067408275343754062361500485057347657740871634879163581128101379043942079032808023506150755833372102172801468292729445657689519943594218104751474452706114753271321186860400826564868609068580275556116963823910724332273350965362481309681762613473464571122939340464944149329857002147937539955776053140604334469345717654588479840955668014829957483937542991996162099130356444117345151226114820457538490378957926547837528300877913129057603583990912262549572254108130087613
+2025-05-10 21:58:09,918 - INFO - Converted emojis to bytes, length: 503
+2025-05-10 21:58:09,961 - ERROR - Decryption failed - Key mismatch
+2025-05-10 21:58:09,961 - INFO - 127.0.0.1 - - [10/May/2025 21:58:09] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 21:58:13,258 - INFO - 127.0.0.1 - - [10/May/2025 21:58:13] "GET /encrypt HTTP/1.1" 200 -
+2025-05-10 21:58:13,310 - INFO - 127.0.0.1 - - [10/May/2025 21:58:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 21:58:59,425 - INFO - 127.0.0.1 - - [10/May/2025 21:58:59] "POST /validate_keys HTTP/1.1" 200 -
+2025-05-10 21:58:59,475 - INFO - 127.0.0.1 - - [10/May/2025 21:58:59] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 21:59:08,928 - INFO - 127.0.0.1 - - [10/May/2025 21:59:08] "GET /decrypt HTTP/1.1" 200 -
+2025-05-10 21:59:08,945 - INFO - 127.0.0.1 - - [10/May/2025 21:59:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 21:59:24,523 - INFO - 127.0.0.1 - - [10/May/2025 21:59:24] "POST /validate_keys HTTP/1.1" 200 -
+2025-05-10 21:59:24,574 - INFO - Successfully loaded private key with modulus: 640961689097616977350236524103115084610418622174415570499655058534925544616667383145424688401644223425288118633251772721006539138296177358916803836436940619173769783916566184859845373712571834642698437712093323798365628854021347275896728327933454959169786901394598564788744150654482681621888870292862876691882019768621974966839384367741380058364577669938482065531862080039734657473542772564933906956737240119776540253830681581352953714872276786415140930105777009116768947929263376643106136326740719744531479172835414413764903878754154846942408337177629769132470897234864065470526527156186146279090353175285963099809367581993130402647847223991885874164995623027061461489454553307875750707707659164248177884049212657479219089489350310848880227687586093171236309671463783067408275343754062361500485057347657740871634879163581128101379043942079032808023506150755833372102172801468292729445657689519943594218104751474452706114753271321186860400826564868609068580275556116963823910724332273350965362481309681762613473464571122939340464944149329857002147937539955776053140604334469345717654588479840955668014829957483937542991996162099130356444117345151226114820457538490378957926547837528300877913129057603583990912262549572254108130087613
+2025-05-10 21:59:24,577 - INFO - Converted emojis to bytes, length: 502
+2025-05-10 21:59:24,621 - ERROR - Decryption failed - Key mismatch
+2025-05-10 21:59:24,622 - INFO - 127.0.0.1 - - [10/May/2025 21:59:24] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 22:04:35,352 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 22:04:35,381 - INFO -  * Restarting with stat
+2025-05-10 22:04:35,609 - WARNING -  * Debugger is active!
+2025-05-10 22:04:35,613 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:05:56,873 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 22:05:56,897 - INFO -  * Restarting with stat
+2025-05-10 22:05:57,123 - WARNING -  * Debugger is active!
+2025-05-10 22:05:57,127 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:07:25,602 - INFO - 127.0.0.1 - - [10/May/2025 22:07:25] "GET /decrypt HTTP/1.1" 200 -
+2025-05-10 22:07:25,648 - INFO - 127.0.0.1 - - [10/May/2025 22:07:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:07:29,348 - INFO - 127.0.0.1 - - [10/May/2025 22:07:29] "GET /encrypt HTTP/1.1" 200 -
+2025-05-10 22:07:29,366 - INFO - 127.0.0.1 - - [10/May/2025 22:07:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:07:50,491 - INFO - Successfully loaded public key with modulus: 640961689097616977350236524103115084610418622174415570499655058534925544616667383145424688401644223425288118633251772721006539138296177358916803836436940619173769783916566184859845373712571834642698437712093323798365628854021347275896728327933454959169786901394598564788744150654482681621888870292862876691882019768621974966839384367741380058364577669938482065531862080039734657473542772564933906956737240119776540253830681581352953714872276786415140930105777009116768947929263376643106136326740719744531479172835414413764903878754154846942408337177629769132470897234864065470526527156186146279090353175285963099809367581993130402647847223991885874164995623027061461489454553307875750707707659164248177884049212657479219089489350310848880227687586093171236309671463783067408275343754062361500485057347657740871634879163581128101379043942079032808023506150755833372102172801468292729445657689519943594218104751474452706114753271321186860400826564868609068580275556116963823910724332273350965362481309681762613473464571122939340464944149329857002147937539955776053140604334469345717654588479840955668014829957483937542991996162099130356444117345151226114820457538490378957926547837528300877913129057603583990912262549572254108130087613
+2025-05-10 22:07:50,493 - INFO - Successfully encrypted message
+2025-05-10 22:07:50,493 - INFO - 127.0.0.1 - - [10/May/2025 22:07:50] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 22:07:57,618 - INFO - 127.0.0.1 - - [10/May/2025 22:07:57] "GET /decrypt HTTP/1.1" 200 -
+2025-05-10 22:07:57,638 - INFO - 127.0.0.1 - - [10/May/2025 22:07:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:08:26,979 - INFO - 127.0.0.1 - - [10/May/2025 22:08:26] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 22:08:43,413 - INFO - Successfully loaded private key with modulus: 640961689097616977350236524103115084610418622174415570499655058534925544616667383145424688401644223425288118633251772721006539138296177358916803836436940619173769783916566184859845373712571834642698437712093323798365628854021347275896728327933454959169786901394598564788744150654482681621888870292862876691882019768621974966839384367741380058364577669938482065531862080039734657473542772564933906956737240119776540253830681581352953714872276786415140930105777009116768947929263376643106136326740719744531479172835414413764903878754154846942408337177629769132470897234864065470526527156186146279090353175285963099809367581993130402647847223991885874164995623027061461489454553307875750707707659164248177884049212657479219089489350310848880227687586093171236309671463783067408275343754062361500485057347657740871634879163581128101379043942079032808023506150755833372102172801468292729445657689519943594218104751474452706114753271321186860400826564868609068580275556116963823910724332273350965362481309681762613473464571122939340464944149329857002147937539955776053140604334469345717654588479840955668014829957483937542991996162099130356444117345151226114820457538490378957926547837528300877913129057603583990912262549572254108130087613
+2025-05-10 22:08:43,415 - INFO - Converted emojis to bytes, length: 501
+2025-05-10 22:08:43,461 - ERROR - Decryption failed - Key mismatch
+2025-05-10 22:08:43,462 - INFO - 127.0.0.1 - - [10/May/2025 22:08:43] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-10 22:10:01,890 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_my_keys.py', reloading
+2025-05-10 22:10:01,918 - INFO -  * Restarting with stat
+2025-05-10 22:10:02,143 - WARNING -  * Debugger is active!
+2025-05-10 22:10:02,147 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:13:46,826 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_encryption_flow.py', reloading
+2025-05-10 22:13:46,853 - INFO -  * Restarting with stat
+2025-05-10 22:13:47,083 - WARNING -  * Debugger is active!
+2025-05-10 22:13:47,087 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:15:13,363 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_encryption_flow.py', reloading
+2025-05-10 22:15:13,392 - INFO -  * Restarting with stat
+2025-05-10 22:15:13,619 - WARNING -  * Debugger is active!
+2025-05-10 22:15:13,623 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:15:40,714 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 22:15:40,743 - INFO -  * Restarting with stat
+2025-05-10 22:15:40,969 - WARNING -  * Debugger is active!
+2025-05-10 22:15:40,973 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:15:52,018 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 22:15:52,045 - INFO -  * Restarting with stat
+2025-05-10 22:15:52,271 - WARNING -  * Debugger is active!
+2025-05-10 22:15:52,275 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:16:00,311 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 22:16:00,341 - INFO -  * Restarting with stat
+2025-05-10 22:16:00,571 - WARNING -  * Debugger is active!
+2025-05-10 22:16:00,574 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:16:17,637 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 22:16:17,664 - INFO -  * Restarting with stat
+2025-05-10 22:16:17,903 - WARNING -  * Debugger is active!
+2025-05-10 22:16:17,906 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:17:22,108 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 22:17:22,137 - INFO -  * Restarting with stat
+2025-05-10 22:17:22,368 - WARNING -  * Debugger is active!
+2025-05-10 22:17:22,372 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:17:23,388 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 22:17:23,419 - INFO -  * Restarting with stat
+2025-05-10 22:17:23,648 - WARNING -  * Debugger is active!
+2025-05-10 22:17:23,652 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:17:41,718 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_encryption_flow.py', reloading
+2025-05-10 22:17:41,745 - INFO -  * Restarting with stat
+2025-05-10 22:17:41,967 - WARNING -  * Debugger is active!
+2025-05-10 22:17:41,970 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:19:47,369 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 22:19:47,397 - INFO -  * Restarting with stat
+2025-05-10 22:19:47,628 - WARNING -  * Debugger is active!
+2025-05-10 22:19:47,632 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:19:53,662 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 22:19:53,690 - INFO -  * Restarting with stat
+2025-05-10 22:19:53,935 - WARNING -  * Debugger is active!
+2025-05-10 22:19:53,939 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:20:03,980 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_encryption_flow.py', reloading
+2025-05-10 22:20:04,006 - INFO -  * Restarting with stat
+2025-05-10 22:20:04,231 - WARNING -  * Debugger is active!
+2025-05-10 22:20:04,235 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:20:15,281 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\test_encryption_flow.py', reloading
+2025-05-10 22:20:15,308 - INFO -  * Restarting with stat
+2025-05-10 22:20:15,534 - WARNING -  * Debugger is active!
+2025-05-10 22:20:15,538 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:23:24,143 - INFO -  * Detected change in 'C:\\Users\\ranji\\sentinel\\cyber-sentinel\\app.py', reloading
+2025-05-10 22:23:24,170 - INFO -  * Restarting with stat
+2025-05-10 22:32:20,080 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 22:32:20,080 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 22:32:20,083 - INFO -  * Restarting with stat
+2025-05-10 22:32:20,315 - WARNING -  * Debugger is active!
+2025-05-10 22:32:20,318 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:32:26,508 - INFO - 127.0.0.1 - - [10/May/2025 22:32:26] "GET /decrypt HTTP/1.1" 200 -
+2025-05-10 22:32:26,556 - INFO - 127.0.0.1 - - [10/May/2025 22:32:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:32:31,486 - INFO - 127.0.0.1 - - [10/May/2025 22:32:31] "GET /encrypt HTTP/1.1" 200 -
+2025-05-10 22:32:31,503 - INFO - 127.0.0.1 - - [10/May/2025 22:32:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:32:37,645 - INFO - 127.0.0.1 - - [10/May/2025 22:32:37] "GET /decrypt HTTP/1.1" 200 -
+2025-05-10 22:32:37,662 - INFO - 127.0.0.1 - - [10/May/2025 22:32:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:32:46,492 - INFO - 127.0.0.1 - - [10/May/2025 22:32:46] "GET /encrypt HTTP/1.1" 200 -
+2025-05-10 22:32:46,523 - INFO - 127.0.0.1 - - [10/May/2025 22:32:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:34:03,319 - INFO - 127.0.0.1 - - [10/May/2025 22:34:03] "GET /encrypt HTTP/1.1" 200 -
+2025-05-10 22:34:03,340 - INFO - 127.0.0.1 - - [10/May/2025 22:34:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:36:46,022 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 22:36:46,022 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 22:36:46,025 - INFO -  * Restarting with stat
+2025-05-10 22:36:46,245 - WARNING -  * Debugger is active!
+2025-05-10 22:36:46,248 - INFO -  * Debugger PIN: 505-247-244
+2025-05-10 22:36:50,224 - INFO - 127.0.0.1 - - [10/May/2025 22:36:50] "GET / HTTP/1.1" 200 -
+2025-05-10 22:36:50,322 - INFO - 127.0.0.1 - - [10/May/2025 22:36:50] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-10 22:36:55,142 - INFO - 127.0.0.1 - - [10/May/2025 22:36:55] "GET /decrypt HTTP/1.1" 200 -
+2025-05-10 22:36:55,161 - INFO - 127.0.0.1 - - [10/May/2025 22:36:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:36:58,759 - INFO - 127.0.0.1 - - [10/May/2025 22:36:58] "GET /encrypt HTTP/1.1" 200 -
+2025-05-10 22:36:58,778 - INFO - 127.0.0.1 - - [10/May/2025 22:36:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:37:35,117 - INFO - 127.0.0.1 - - [10/May/2025 22:37:35] "GET / HTTP/1.1" 200 -
+2025-05-10 22:37:35,135 - INFO - 127.0.0.1 - - [10/May/2025 22:37:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:41:42,412 - INFO - 127.0.0.1 - - [10/May/2025 22:41:42] "GET /encrypt HTTP/1.1" 200 -
+2025-05-10 22:41:42,430 - INFO - 127.0.0.1 - - [10/May/2025 22:41:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:41:48,290 - INFO - 127.0.0.1 - - [10/May/2025 22:41:48] "GET /decrypt HTTP/1.1" 200 -
+2025-05-10 22:41:48,310 - INFO - 127.0.0.1 - - [10/May/2025 22:41:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:41:51,340 - INFO - 127.0.0.1 - - [10/May/2025 22:41:51] "GET /encrypt HTTP/1.1" 200 -
+2025-05-10 22:41:51,358 - INFO - 127.0.0.1 - - [10/May/2025 22:41:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:42:19,623 - INFO - 127.0.0.1 - - [10/May/2025 22:42:19] "POST /encrypt HTTP/1.1" 200 -
+2025-05-10 22:42:41,715 - INFO - 127.0.0.1 - - [10/May/2025 22:42:41] "GET /decrypt HTTP/1.1" 200 -
+2025-05-10 22:42:41,739 - INFO - 127.0.0.1 - - [10/May/2025 22:42:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 22:42:53,131 - INFO - 127.0.0.1 - - [10/May/2025 22:42:53] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-11 07:59:37,316 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 07:59:37,316 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 07:59:37,320 - INFO -  * Restarting with stat
+2025-05-11 07:59:37,543 - WARNING -  * Debugger is active!
+2025-05-11 07:59:37,553 - INFO -  * Debugger PIN: 505-247-244
+2025-05-11 09:04:45,128 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 09:04:45,129 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 09:04:45,133 - INFO -  * Restarting with stat
+2025-05-11 09:04:45,376 - WARNING -  * Debugger is active!
+2025-05-11 09:04:45,387 - INFO -  * Debugger PIN: 505-247-244
+2025-05-11 09:09:23,376 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 09:09:23,377 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 09:09:23,380 - INFO -  * Restarting with stat
+2025-05-11 09:09:23,628 - WARNING -  * Debugger is active!
+2025-05-11 09:09:23,632 - INFO -  * Debugger PIN: 505-247-244
+2025-05-11 09:14:29,525 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 09:14:29,525 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 09:14:29,529 - INFO -  * Restarting with stat
+2025-05-11 09:14:29,783 - WARNING -  * Debugger is active!
+2025-05-11 09:14:29,787 - INFO -  * Debugger PIN: 505-247-244
+2025-05-11 09:16:27,916 - INFO - 127.0.0.1 - - [11/May/2025 09:16:27] "GET / HTTP/1.1" 200 -
+2025-05-11 09:16:37,168 - INFO - 127.0.0.1 - - [11/May/2025 09:16:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-11 09:16:37,991 - INFO - 127.0.0.1 - - [11/May/2025 09:16:37] "GET / HTTP/1.1" 200 -
+2025-05-11 09:16:38,270 - INFO - 127.0.0.1 - - [11/May/2025 09:16:38] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-11 09:17:01,488 - INFO - 127.0.0.1 - - [11/May/2025 09:17:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-11 09:17:03,675 - INFO - 127.0.0.1 - - [11/May/2025 09:17:03] "GET / HTTP/1.1" 200 -
+2025-05-11 09:17:03,913 - INFO - 127.0.0.1 - - [11/May/2025 09:17:03] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-11 09:17:05,621 - INFO - 127.0.0.1 - - [11/May/2025 09:17:05] "GET /encrypt HTTP/1.1" 200 -
+2025-05-11 09:17:06,018 - INFO - 127.0.0.1 - - [11/May/2025 09:17:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-11 09:17:11,539 - INFO - 127.0.0.1 - - [11/May/2025 09:17:11] "GET /encrypt HTTP/1.1" 200 -
+2025-05-11 09:17:11,747 - INFO - 127.0.0.1 - - [11/May/2025 09:17:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-11 09:22:07,981 - INFO - 127.0.0.1 - - [11/May/2025 09:22:07] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:12,136 - INFO - 127.0.0.1 - - [11/May/2025 09:22:12] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:21,385 - INFO - 127.0.0.1 - - [11/May/2025 09:22:21] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:22,783 - INFO - 127.0.0.1 - - [11/May/2025 09:22:22] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:23,316 - INFO - 127.0.0.1 - - [11/May/2025 09:22:23] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:23,512 - INFO - 127.0.0.1 - - [11/May/2025 09:22:23] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:23,884 - INFO - 127.0.0.1 - - [11/May/2025 09:22:23] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:24,121 - INFO - 127.0.0.1 - - [11/May/2025 09:22:24] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:52,633 - INFO - 127.0.0.1 - - [11/May/2025 09:22:52] "GET /decrypt HTTP/1.1" 200 -
+2025-05-11 09:22:52,861 - INFO - 127.0.0.1 - - [11/May/2025 09:22:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-11 09:22:54,045 - INFO - 127.0.0.1 - - [11/May/2025 09:22:54] "GET /encrypt HTTP/1.1" 200 -
+2025-05-11 09:22:54,279 - INFO - 127.0.0.1 - - [11/May/2025 09:22:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-11 09:22:54,983 - INFO - 127.0.0.1 - - [11/May/2025 09:22:54] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:56,307 - INFO - 127.0.0.1 - - [11/May/2025 09:22:56] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:56,483 - INFO - 127.0.0.1 - - [11/May/2025 09:22:56] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:56,660 - INFO - 127.0.0.1 - - [11/May/2025 09:22:56] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:56,715 - INFO - 127.0.0.1 - - [11/May/2025 09:22:56] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:56,818 - INFO - 127.0.0.1 - - [11/May/2025 09:22:56] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:56,951 - INFO - 127.0.0.1 - - [11/May/2025 09:22:56] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:22:59,559 - INFO - 127.0.0.1 - - [11/May/2025 09:22:59] "GET / HTTP/1.1" 200 -
+2025-05-11 09:22:59,779 - INFO - 127.0.0.1 - - [11/May/2025 09:22:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-11 09:23:00,300 - INFO - 127.0.0.1 - - [11/May/2025 09:23:00] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:23:00,442 - INFO - 127.0.0.1 - - [11/May/2025 09:23:00] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:23:00,776 - INFO - 127.0.0.1 - - [11/May/2025 09:23:00] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:23:01,851 - INFO - 127.0.0.1 - - [11/May/2025 09:23:01] "GET /encrypt HTTP/1.1" 200 -
+2025-05-11 09:23:02,174 - INFO - 127.0.0.1 - - [11/May/2025 09:23:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-11 09:23:15,793 - INFO - 127.0.0.1 - - [11/May/2025 09:23:15] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:23:24,051 - INFO - 127.0.0.1 - - [11/May/2025 09:23:24] "GET /decrypt HTTP/1.1" 200 -
+2025-05-11 09:23:24,281 - INFO - 127.0.0.1 - - [11/May/2025 09:23:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-11 09:23:31,906 - INFO - 127.0.0.1 - - [11/May/2025 09:23:31] "GET /encrypt HTTP/1.1" 200 -
+2025-05-11 09:23:32,136 - INFO - 127.0.0.1 - - [11/May/2025 09:23:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-11 09:23:48,073 - INFO - 127.0.0.1 - - [11/May/2025 09:23:48] "POST /encrypt HTTP/1.1" 200 -
+2025-05-11 09:24:44,903 - INFO - 127.0.0.1 - - [11/May/2025 09:24:44] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:24:45,725 - INFO - 127.0.0.1 - - [11/May/2025 09:24:45] "[31m[1mPOST /decrypt HTTP/1.1[0m" 400 -
+2025-05-11 09:24:59,618 - INFO - 127.0.0.1 - - [11/May/2025 09:24:59] "GET /encrypt HTTP/1.1" 200 -
+2025-05-11 09:25:00,231 - INFO - 127.0.0.1 - - [11/May/2025 09:25:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-11 09:30:24,193 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 09:30:24,193 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 09:30:24,198 - INFO -  * Restarting with stat
+2025-05-11 09:30:24,455 - WARNING -  * Debugger is active!
+2025-05-11 09:30:24,459 - INFO -  * Debugger PIN: 505-247-244
